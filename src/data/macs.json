@@ -1,0 +1,139 @@
+{
+  "macs": [
+    {
+      "model": "MacBook Air",
+      "generations": [
+        {
+          "generation": "M1",
+          "releaseDate": "2020-11-17",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "M2",
+          "releaseDate": "2022-07-15",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "M3",
+          "releaseDate": "2024-03-04",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "MacBook Pro",
+      "generations": [
+        {
+          "generation": "13-inch M1",
+          "releaseDate": "2020-11-17",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "14-inch M1 Pro/M1 Max",
+          "releaseDate": "2021-10-26",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "16-inch M1 Pro/M1 Max",
+          "releaseDate": "2021-10-26",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "13-inch M2",
+          "releaseDate": "2022-06-24",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "14-inch M2 Pro/M2 Max",
+          "releaseDate": "2023-01-24",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "16-inch M2 Pro/M2 Max",
+          "releaseDate": "2023-01-24",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "Mac Mini",
+      "generations": [
+        {
+          "generation": "M1",
+          "releaseDate": "2020-11-17",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "M2",
+          "releaseDate": "2023-01-24",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "iMac",
+      "generations": [
+        {
+          "generation": "24-inch M1",
+          "releaseDate": "2021-05-21",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "Mac Studio",
+      "generations": [
+        {
+          "generation": "M1 Max/M1 Ultra",
+          "releaseDate": "2022-03-18",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "M2 Max/M2 Ultra",
+          "releaseDate": "2023-06-13",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "Mac Pro",
+      "generations": [
+        {
+          "generation": "M2 Ultra",
+          "releaseDate": "2023-06-13",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    }
+  ]
+}

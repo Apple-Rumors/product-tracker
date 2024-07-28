@@ -1,0 +1,375 @@
+{
+  "iphones": [
+    {
+      "model": "iPhones",
+      "generations": [
+        {
+          "generation": "iPhone 3G",
+          "announced": "2008-06-09",
+          "releaseDate": "2008-07-11",
+          "discontinued": "2010-06-07",
+          "finalSupportedOS": "iOS 4.2.1",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 3GS",
+          "announced": "2009-06-08",
+          "releaseDate": "2009-06-19",
+          "discontinued": "2012-09-12",
+          "finalSupportedOS": "iOS 6.1.6",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 4",
+          "announced": "2010-06-07",
+          "releaseDate": "2010-06-24",
+          "discontinued": "2013-09-10",
+          "finalSupportedOS": "iOS 7.1.2",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 4S",
+          "announced": "2011-10-04",
+          "releaseDate": "2011-10-14",
+          "discontinued": "2014-09-09",
+          "finalSupportedOS": "iOS 9.3.6",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 5",
+          "announced": "2012-09-12",
+          "releaseDate": "2012-09-21",
+          "discontinued": "2013-09-10",
+          "finalSupportedOS": "iOS 10.3.4",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 5C",
+          "announced": "2013-09-10",
+          "releaseDate": "2013-09-20",
+          "discontinued": "2015-09-09",
+          "finalSupportedOS": "iOS 10.3.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 5S",
+          "announced": "2013-09-10",
+          "releaseDate": "2013-09-20",
+          "discontinued": "2016-03-21",
+          "finalSupportedOS": "iOS 12.5.7",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 6",
+          "announced": "2014-09-09",
+          "releaseDate": "2014-09-19",
+          "discontinued": "2016-09-07",
+          "finalSupportedOS": "iOS 12.5.7",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 6S",
+          "announced": "2015-09-09",
+          "releaseDate": "2015-09-25",
+          "discontinued": "2018-09-12",
+          "finalSupportedOS": "iOS 15.7.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 7",
+          "announced": "2016-09-07",
+          "releaseDate": "2016-09-16",
+          "discontinued": "2019-09-10",
+          "finalSupportedOS": "iOS 15.7.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 8",
+          "announced": "2017-09-12",
+          "releaseDate": "2017-09-22",
+          "discontinued": "2020-04-15",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone X",
+          "announced": "2017-09-12",
+          "releaseDate": "2017-11-03",
+          "discontinued": "2018-09-12",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone XR",
+          "announced": "2018-09-12",
+          "releaseDate": "2018-10-26",
+          "discontinued": "2021-09-14",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone XS",
+          "announced": "2018-09-12",
+          "releaseDate": "2018-09-21",
+          "discontinued": "2019-09-10",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 11",
+          "announced": "2019-09-10",
+          "releaseDate": "2019-09-20",
+          "discontinued": "2021-09-14",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 12",
+          "announced": "2020-10-13",
+          "releaseDate": "2020-10-23",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 13",
+          "announced": "2021-09-14",
+          "releaseDate": "2021-09-24",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 14",
+          "announced": "2022-09-07",
+          "releaseDate": "2022-09-16",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 15",
+          "announced": "2023-09-12",
+          "releaseDate": "2023-09-22",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "iPhone SE",
+      "generations": [
+        {
+          "generation": "1st generation",
+          "announced": "2016-03-21",
+          "releaseDate": "2016-03-31",
+          "discontinued": "2018-09-12",
+          "finalSupportedOS": "iOS 15.7.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "2nd generation",
+          "announced": "2020-04-15",
+          "releaseDate": "2020-04-24",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "3rd generation",
+          "announced": "2022-03-08",
+          "releaseDate": "2022-03-18",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "iPhone Plus",
+      "generations": [
+        {
+          "generation": "iPhone 6 Plus",
+          "announced": "2014-09-09",
+          "releaseDate": "2014-09-19",
+          "discontinued": "2016-09-07",
+          "finalSupportedOS": "iOS 12.5.7",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 6S Plus",
+          "announced": "2015-09-09",
+          "releaseDate": "2015-09-25",
+          "discontinued": "2018-09-12",
+          "finalSupportedOS": "iOS 15.7.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 7 Plus",
+          "announced": "2016-09-07",
+          "releaseDate": "2016-09-16",
+          "discontinued": "2019-09-10",
+          "finalSupportedOS": "iOS 15.7.3",
+          "supportStatus": false
+        },
+        {
+          "generation": "iPhone 8 Plus",
+          "announced": "2017-09-12",
+          "releaseDate": "2017-09-22",
+          "discontinued": "2020-04-15",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 14 Plus",
+          "announced": "2022-09-07",
+          "releaseDate": "2022-10-07",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 15 Plus",
+          "announced": "2023-09-12",
+          "releaseDate": "2023-09-22",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "iPhone Mini",
+      "generations": [
+        {
+          "generation": "iPhone 12 Mini",
+          "announced": "2020-10-13",
+          "releaseDate": "2020-11-13",
+          "discontinued": "2021-09-14",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 13 Mini",
+          "announced": "2021-09-14",
+          "releaseDate": "2021-09-24",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "iPhone Pro",
+      "generations": [
+        {
+          "generation": "iPhone 11 Pro",
+          "announced": "2019-09-10",
+          "releaseDate": "2019-09-20",
+          "discontinued": "2020-10-13",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 12 Pro",
+          "announced": "2020-10-13",
+          "releaseDate": "2020-10-23",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 13 Pro",
+          "announced": "2021-09-14",
+          "releaseDate": "2021-09-24",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 14 Pro",
+          "announced": "2022-09-07",
+          "releaseDate": "2022-09-16",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 15 Pro",
+          "announced": "2023-09-12",
+          "releaseDate": "2023-09-22",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "iPhone Pro Max",
+      "generations": [
+        {
+          "generation": "iPhone XS Max",
+          "announced": "2018-09-12",
+          "releaseDate": "2018-09-21",
+          "discontinued": "2019-09-10",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 11 Pro Max",
+          "announced": "2019-09-10",
+          "releaseDate": "2019-09-20",
+          "discontinued": "2020-10-13",
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 12 Pro Max",
+          "announced": "2020-10-13",
+          "releaseDate": "2020-11-13",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 13 Pro Max",
+          "announced": "2021-09-14",
+          "releaseDate": "2021-09-24",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 14 Pro Max",
+          "announced": "2022-09-07",
+          "releaseDate": "2022-09-16",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        },
+        {
+          "generation": "iPhone 15 Pro Max",
+          "announced": "2023-09-12",
+          "releaseDate": "2023-09-22",
+          "discontinued": null,
+          "finalSupportedOS": "Latest iOS",
+          "supportStatus": true
+        }
+      ]
+    },
+    {
+      "model": "Original iPhone",
+      "generations": [
+        {
+          "generation": "1st generation",
+          "announced": "2007-01-09",
+          "releaseDate": "2007-06-29",
+          "discontinued": "2008-07-15",
+          "finalSupportedOS": "iOS 3.1.3",
+          "supportStatus": false
+        }
+      ]
+    }
+  ]
+}

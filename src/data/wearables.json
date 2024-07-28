@@ -1,0 +1,190 @@
+{
+  "wearables": [
+    {
+      "model": "Apple Watch",
+      "generations": [
+        {
+          "generation": "Series 1",
+          "releaseDate": "2016-09-16",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 2",
+          "releaseDate": "2016-09-16",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 3",
+          "releaseDate": "2017-09-22",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 4",
+          "releaseDate": "2018-09-21",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 5",
+          "releaseDate": "2019-09-20",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 6",
+          "releaseDate": "2020-09-18",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "SE (1st generation)",
+          "releaseDate": "2020-09-18",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 7",
+          "releaseDate": "2021-10-15",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Series 8",
+          "releaseDate": "2022-09-16",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "SE (2nd generation)",
+          "releaseDate": "2022-09-16",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Ultra",
+          "releaseDate": "2022-09-23",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "AirPods",
+      "generations": [
+        {
+          "generation": "1st generation",
+          "releaseDate": "2016-12-13",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "2nd generation",
+          "releaseDate": "2019-03-20",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Pro (1st generation)",
+          "releaseDate": "2019-10-30",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Max",
+          "releaseDate": "2020-12-15",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "3rd generation",
+          "releaseDate": "2021-10-26",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Pro (2nd generation)",
+          "releaseDate": "2022-09-23",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "AirPods Pro",
+      "generations": [
+        {
+          "generation": "1st generation",
+          "releaseDate": "2019-10-30",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "2nd generation",
+          "releaseDate": "2022-09-23",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "AirPods Max",
+      "generations": [
+        {
+          "generation": "1st generation",
+          "releaseDate": "2020-12-15",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    },
+    {
+      "model": "Beats",
+      "generations": [
+        {
+          "generation": "Beats Studio Buds",
+          "releaseDate": "2021-06-24",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Beats Fit Pro",
+          "releaseDate": "2021-11-05",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        },
+        {
+          "generation": "Beats Studio Buds+",
+          "releaseDate": "2023-05-17",
+          "announced": null,
+          "discontinued": null,
+          "supportStatus": false
+        }
+      ]
+    }
+  ]
+}
