@@ -1,8 +1,10 @@
 import React from 'react';
-import { Link, Outlet } from 'react-router-dom';
+import { Link, useOutlet } from 'react-router-dom';
 import ProductList from './components/product-list';
 
 function App() {
+  let outlet = useOutlet();
+
   return (
     <div className="min-h-screen bg-secondary-gray flex flex-col">
       <header className="bg-primary-blue text-white p-4 flex justify-between items-center">
@@ -26,11 +28,11 @@ function App() {
           <ProductList />
         </aside>
         <main className="flex-1 p-4">
-          <Outlet />
-          <div className="text-center text-gray-600 mt-8">
-            <h2 className="text-3xl font-bold mb-4">Welcome to the Apple Product Update Guide</h2>
-            <p>Select a product category from the list on the left to view detailed update information.</p>
-          </div>
+          {outlet ||
+            <div className="text-center text-gray-600 mt-8">
+              <h2 className="text-3xl font-bold mb-4">Welcome to the Apple Product Update Guide</h2>
+              <p>Select a product category from the list on the left to view detailed update information.</p>
+            </div>}
         </main>
       </div>
     </div>

@@ -73,16 +73,16 @@ function GenerationDetail() {
   return (
     <div className="space-y-8">
       <h2 className="text-3xl font-bold mb-4">{data.model}</h2>
+      {isImminent && (
+        <div className="p-4 bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700">
+          <p className="font-bold">Update Imminent!</p>
+          <p>Based on the average update cycle, an update is likely soon.</p>
+        </div>
+      )}
       <div className="space-y-2">
         <p className="text-lg">Average days between updates: <strong>{averageDays} days</strong></p>
         <p className="text-lg">Days since last update: <strong>{daysSinceLastRelease} days</strong></p>
         <p className="text-lg">Average supported lifespan: <strong>{averageLifespan} days</strong></p>
-        {isImminent && (
-          <div className="p-4 bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700">
-            <p className="font-bold">Update Imminent!</p>
-            <p>Based on the average update cycle, an update is likely soon.</p>
-          </div>
-        )}
       </div>
       <div className="space-y-4">
         {sortedGenerations.map((gen, index) => (
